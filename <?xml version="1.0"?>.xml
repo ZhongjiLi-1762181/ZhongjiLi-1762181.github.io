@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Documents That Changed the World</title>
+<link>http://faculty.washington.edu/jwj/doc/</link>
+<description>A look at documents that have had a profound effect on the world.  Telling the stories 
+of these information objects, their genesis, contexts, impacts, and fates also tells the story of human society 
+and its never ending evolution.</description>
+<itunes:image href="http://faculty.washington.edu/jwj/doc/jwjsq.jpg" />
+<pubDate>Tue, 24 Jul 2012 11:24:21 PDT</pubDate>
+<language>en-US</language>
+<itunes:subtitle>Revealing the power and importance of information </itunes:subtitle>
+<itunes:author>Joe Janes</itunes:author>
+<itunes:summary>A look at documents that have made a difference in the world.  Joe Janes,
+of the University of Washington Information School, tells the stories of 
+these important information objects, how and why they were created, and the impacts they've
+had.  These documents also tell the story of human society. 
+and its never ending evolution.  Look for our Podcast in the iTunes Store</itunes:summary>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:category text="Society &amp; Culture">
+<itunes:category text="History" />
+</itunes:category>
+<item>
+<title>Introduction</title>
+<enclosure url="http://faculty.washington.edu/jwj/doc/intro.mp3" length="2091763" type="audio/mpeg"/>
+<guid isPermaLink="false">000-08-06-2012</guid>
+<pubDate>Wed, 8 Aug 2012 19:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Electoral College Documents, 2020</title>
+<itunes:subtitle>Papers, signatures, seals, ceremonies, rules that produce documents to let hundreds speak for millions in having their say in the most important decision they make </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/electoral.mp3" length="9427127" type="audio/mpeg"/>
+<guid isPermaLink="false">056-01-03-2021</guid>
+<pubDate>Sun, 03 Jan 2021 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>World's Fair Time Capsule, 1938</title>
+<itunes:subtitle>The best known example of an attempt to help the future to understand the present when it's the past, even 5000 years on </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/capsule.mp3" length="9624298" type="audio/mpeg"/>
+<guid isPermaLink="false">055-08-06-2020</guid>
+<pubDate>Thu, 06 Aug 2020 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Articles of Impeachment, 1868</title>
+<itunes:subtitle>The extraordinary ordinariness of articles of impeachment, then and now, and the lessons to be learned, over and over again  </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/impeach.mp3" length="8446278" type="audio/mpeg"/>
+<guid isPermaLink="false">054-01-29-2020</guid>
+<pubDate>Wed, 29 Jul 2020 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Code of Hammurabi, c1754 BCE</title>
+<itunes:subtitle>Whoever thought finding the law could be a challenge?  Not if it's on a 7 ft tall stela for all to see - now, as then, finding the law can be almost as complicated as finding justice  </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/hammurabi.mp3" length="7732193" type="audio/mpeg"/>
+<guid isPermaLink="false">053-07-31-2019</guid>
+<pubDate>Wed, 31 Jul 2019 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Eurovision/European Broadcast Union Statutes, 1950</title>
+<itunes:subtitle>What's the most popular television show in the world that you may never have heard of?  Founding documents, politics, dancing apes, and the shared cultural moments that are the Eurovision Song Contest </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/eurovision.mp3" length="9012717" type="audio/mpeg"/>
+<guid isPermaLink="false">052-05-11-2019</guid>
+<pubDate>Sat, 11 May 2019 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>IRS Form 1040, 1914</title>
+<itunes:subtitle>Line after line, year after year, the forms that keep information organized, processes processing, and civilization working </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/taxform.mp3" length="8922114" type="audio/mpeg"/>
+<guid isPermaLink="false">050-04-07-2019</guid>
+<pubDate>Sun, 07 Apr 2019 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>"Operation Mincemeat" Faked Documents, 1943</title>
+<itunes:subtitle>When is a fake not a fake?  A strange WWII stories, authentically fake documents on a dead fake British officer to divert German attention from an invasion of Sicily and change the course of the war-for real (researched/co-written by Kate Merifield)</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/mincemeat.mp3" length="8463846" type="audio/mpeg"/>
+<guid isPermaLink="false">049-06-18-2018</guid>
+<pubDate>Mon, 18 Jun 2018 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Voyager "Golden Records", 1977</title>
+<itunes:subtitle>Mixtape, love letter, time capsule, letter of introduction, message in a bottle and more, not to mention the furthest object of human construction, sending our messages out to the stars, seeking understanding and remembrance</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/voyager.mp3" length="8471043" type="audio/mpeg"/>
+<guid isPermaLink="false">048-08-20-2017</guid>
+<pubDate>Sun, 20 Aug 2017 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Webster's Dictionary, 1828</title>
+<itunes:subtitle>Words define a language, and in turn languages help to define cultures and societies.  And people define words, as the last man who tried to define them all himself knew, in the process trying also to define and distinguish his developing nation</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/webster.mp3" length="5819818" type="audio/mpeg"/>
+<guid isPermaLink="false">047-04-27-2016</guid>
+<pubDate>Wed, 27 Apr 2016 09:00:00 GMT</pubDate>
+</item>
+
+
+
+<item>
+<title>Liber Abaci (Arabic Numerals), 1202</title>
+<itunes:subtitle>800 years ago, an Italian mathematician and world traveler brought the gift of digits to Europe, from India, through Arabia, and taught the West how to count, and calculate, and figure it all out</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/abaci.mp3" length="5291109" type="audio/mpeg"/>
+<guid isPermaLink="false">046-03-02-2016</guid>
+<pubDate>Wed, 02 Mar 2016 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Palm Beach County "Butterfly" Ballot, 2000</title>
+<itunes:subtitle>Vote for the person you want, somebody in charge counts â€˜em up and then we find out the winner.  As if.  The many ways that can go wrong, and the importance of good design done well but somebody who knows how</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/ballot.mp3" length="5626946" type="audio/mpeg"/>
+<guid isPermaLink="false">045-02-24-2016</guid>
+<pubDate>Wed, 24 Feb 2016 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Stock Market Crash Ticker Tape, 1929</title>
+<itunes:subtitle>When the market started to crash, the ticker, reliable source of up-to-the-second information, fell behind, and all of a sudden not knowing what you didn't know was worse than knowing, and the spiral went down and down from there</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/ticker.mp3" length="5859737" type="audio/mpeg"/>
+<guid isPermaLink="false">044-12-09-2015</guid>
+<pubDate>Wed, 09 Dec 2015 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>FDR Thanksgiving Proclamation, 1939</title>
+<itunes:subtitle>Two Thanksgivings!  Twice the turkey, twice the parades, twice the football?  Nope, but for a few years the nation was split by a presidential proclamation that didn't quite work as intended </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/thanksgiving.mp3" length="5151719" type="audio/mpeg"/>
+<guid isPermaLink="false">043-10-30-2015</guid>
+<pubDate>Fri, 30 Oct 2015 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Declaration of Independence Deleted Passage, 1776</title>
+<itunes:subtitle>How do you read words that aren't there?  The towering idea of the Declaration of Independence, the passage on slavery deleted before its adoption, and the hole that silence has left behind</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/declaration.mp3" length="5534584" type="audio/mpeg"/>
+<guid isPermaLink="false">021-10-20-2015</guid>
+<pubDate>Tue, 20 Oct 2015 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Nupedia (Wikipedia precursor), 2000</title>
+<itunes:subtitle>Encyclopedias have changed, due to the one you know - but actually the one you probably don't, and the ways in which we know the things we know are changing right along with them</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/nupedia.mp3" length="5618767" type="audio/mpeg"/>
+<guid isPermaLink="false">041-09-09-2015</guid>
+<pubDate>Wed, 09 Sep 2015 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Richter Scale, 1935</title>
+<itunes:subtitle>The Richter Scale...isn't used any more, and the man who created it had a mind more sensitive to the movements of the earth than the subtleties of society </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/richter.mp3" length="5131850" type="audio/mpeg"/>
+<guid isPermaLink="false">040-08-12-2015</guid>
+<pubDate>Wed, 12 Aug 2015 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Fannie Farmer Cookbook, 1896</title>
+<itunes:subtitle>Hungry yet?  The cookbook, and the woman, who standardized recipes and encouraged us all to think about food as science and art </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/farmer.mp3" length="5078570" type="audio/mpeg"/>
+<guid isPermaLink="false">039-07-20-2015</guid>
+<pubDate>Mon, 20 Jul 2015 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Vietnam Veterans Memorial, 1982</title>
+<itunes:subtitle>Name after name, row after row, the wall, and the things we bring to it, including ourselves, all of which help us remember and reconcile </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/vietnam.mp3" length="5782625" type="audio/mpeg"/>
+<guid isPermaLink="false">038-07-03-2015</guid>
+<pubDate>Fri, 03 Jul 2015 09:00:00 GMT</pubDate>
+</item>
+
+
+<item>
+<title>Statistical Significance, 1925</title>
+<itunes:subtitle>How to know when to believe a research study, drawing the line between real and spurious, and how a "random" line in a book defines the way we understand the world </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/fisher.mp3" length="5100305" type="audio/mpeg"/>
+<guid isPermaLink="false">037-06-05-2015</guid>
+<pubDate>Fri, 05 Jun 2015 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Annals of the World, 1650</title>
+<itunes:subtitle>Bishop James Ussher, the search for the beginning of the universe, and the date (and time) of Creation, making the most of the tools at hand </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/annals.mp3" length="5063938" type="audio/mpeg"/>
+<guid isPermaLink="false">036-04-06-2015</guid>
+<pubDate>Mon, 06 Apr 2015 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Alfred Nobel's Will, 1895</title>
+<itunes:subtitle>One of the greatest legacies, and worst-written wills of all times, though almost completely not what the author had in mind; wills, their history and how to (almost always) get the last word </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/nobel.mp3" length="5548353" type="audio/mpeg"/>
+<guid isPermaLink="false">035-03-16-2015</guid>
+<pubDate>Mon, 16 Mar 2015 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>"The Star-Spangled Banner", 1814</title>
+<itunes:subtitle>O say do you know...the story behind the Star-Spangled Banner?  It took off fast, then slowly, and has stood the test of time while still, and always, becoming</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/banner.mp3" length="8713302" type="audio/mpeg"/>
+<guid isPermaLink="false">034-08-12-2014</guid>
+<pubDate>Tue, 12 Aug 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Philosophical Transactions, 1665</title>
+<itunes:subtitle>The first scholarly journal, at the dawn of the Scientific Revolution, and helping to give birth to the way we write and think about scholarship and investigation...and now it's all changing again</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/transactions.mp3" length="8791567" type="audio/mpeg"/>
+<guid isPermaLink="false">033-07-30-2014</guid>
+<pubDate>Wed, 30 Jul 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>First Woman's College Diploma, 1840</title>
+<itunes:subtitle>It's just "a piece of paper," except it's not.  The story of Catherine Elizabeth Benson Brewer, the first woman to receive a diploma, and how we recognize achievement, yesterday and today (written/researched/recorded by Kelsey Gibbons)</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/diploma.mp3" length="6058276" type="audio/mpeg"/>
+<guid isPermaLink="false">032-07-15-2014</guid>
+<pubDate>Tue, 15 Jul 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Joseph McCarthy's "List", 1950</title>
+<itunes:subtitle>I have in my hand a list...of 57 Communists in the State Department.  Or was it 205?  Or 81?  Or was there a list at all?  How documents get their power, from us, even if they don't exist </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/mccarthy.mp3" length="7907425" type="audio/mpeg"/>
+<guid isPermaLink="false">031-07-06-2014</guid>
+<pubDate>Fri, 04 Jul 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>The Exaltation of Inanna, c2300 BCE</title>
+<itunes:subtitle>One of the oldest works of literature we know, a hymn written by Enheduanna, perhaps the first known named author, in the Sumerian city of Ur, a plea for help that doesn't feel out of place 4300 years later </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/inanna.mp3" length="9650426" type="audio/mpeg"/>
+<guid isPermaLink="false">030-06-01-2014</guid>
+<pubDate>Sun, 01 Jun 2014 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Donation of Constantine, c750</title>
+<itunes:subtitle>Why the Popes ruled Italy:  one of the greatest gifts in history, as a result of one of the greatest forgery in history, the art of making a document lie, and figuring out what's real and what's not </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/donation.mp3" length="9810078" type="audio/mpeg"/>
+<guid isPermaLink="false">029-05-21-2014</guid>
+<pubDate>Wed, 21 May 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Zimmerman Telegram, 1917</title>
+<itunes:subtitle>The secret decoding of a secret message:  how Britain found out that Germany wanted Mexico to attack America to keep them out of World War I, and the spectacular backfire that resulted  (researched/produced by Jill Fenno) </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/zimmerman.mp3" length="9998154" type="audio/mpeg"/>
+<guid isPermaLink="false">028-05-11-2014</guid>
+<pubDate>Sun, 11 May 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Airplane Black Box/Flight Data Recorder, 1958</title>
+<itunes:subtitle>The black box that reveals, not conceals:  how flight recorders were developed, how they work, how they're used, what happens to the information, and how they're related to the 8-track tape </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/blackbox.mp3" length="6459734" type="audio/mpeg"/>
+<guid isPermaLink="false">027-04-22-2014</guid>
+<pubDate>Tue, 22 Apr 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>"We Can Do It!" Poster/Rosie the Riveter, 1943</title>
+<itunes:subtitle>That poster--isn't what you think.  She's not Rosie the Riveter, and the lives she's led, as, feminist icon, symbol of wartime solidarity, cultural nostalgia touchstone, are almost all entirely wrong </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/poster.mp3" length="6037596" type="audio/mpeg"/>
+<guid isPermaLink="false">026-04-06-2014</guid>
+<pubDate>Sun, 06 Apr 2014 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Alaska Purchase Check, 1868</title>
+<itunes:subtitle>Seward's Folly, enabled by a single piece of paper exchanged for $7.2 million, adding vast new territories to the US, and telling us about how money moves, and how people feel about how that's changing (researched/produced/co-written by Andrew Kyrios) </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/alaska.mp3" length="5931016" type="audio/mpeg"/>
+<guid isPermaLink="false">025-03-19-2014</guid>
+<pubDate>Wed, 19 Mar 2014 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Zapruder Film, 1963</title>
+<itunes:subtitle>486 frames, likely the most scrutinized film of all time, dissected, debated, debunked, and the harbinger of things to come as events are increasingly documented and shared </itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/zapruder.mp3" length="6210761" type="audio/mpeg"/>
+<guid isPermaLink="false">024-11-13-2013</guid>
+<pubDate>Wed, 13 Nov 2013 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Rosetta Stone, 196BCE</title>
+<itunes:subtitle>Undoubtedly one of the great document stories of all time, which help us to think about permanence, durability, and what can happen when media outlast messages</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/rosetta.mp3" length="5626663" type="audio/mpeg"/>
+<guid isPermaLink="false">023-09-05-2013</guid>
+<pubDate>Thu, 05 Sep 2013 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Mental Disorder Diagnosis Manual, 1952</title>
+<itunes:subtitle>Are you crazy?  Maybe yes, maybe no, but either way, this book lays out what mental disorders are, and aren't, and reinforce the power that we give names of all kinds</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/dsm.mp3" length="5934925" type="audio/mpeg"/>
+<guid isPermaLink="false">022-08-0-8-2013</guid>
+<pubDate>Thu, 08 Aug 2013 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>The Book of Mormon, 1830</title>
+<itunes:subtitle>Joseph Smith:  led to long-buried golden tablets revealing lost truths...or the most successful humbug even known?  Words, faith, a backstory that defies logic, and the power of belief</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/mormon.mp3" length="6027644" type="audio/mpeg"/>
+<guid isPermaLink="false">021-07-020-2013</guid>
+<pubDate>Sat, 20 Jul 2013 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Einstein's Letter to Roosevelt, 1939</title>
+<itunes:subtitle>A two page letter from a great mind to a great leader about a great subject matter, the beginning of the Atomic Age and one of the oldest forms of writing</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/einstein.mp3" length="5701649" type="audio/mpeg"/>
+<guid isPermaLink="false">020-07-006-2013</guid>
+<pubDate>Sat, 06 Jul 2013 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>X-Ray, 1895</title>
+<itunes:subtitle>A shadowy skeletal hand gives us the first good look inside ourselves, and we've not been the same since</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/xray.mp3" length="5161419" type="audio/mpeg"/>
+<guid isPermaLink="false">019-06-013-2013</guid>
+<pubDate>Thu, 13 Jun 2013 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Riot Act, 1714</title>
+<itunes:subtitle>If you don't say it out loud, it doesn't work--magic spells, wedding ceremonies, and how to stop a riot, 18th Century style</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/riot.mp3" length="4698789" type="audio/mpeg"/>
+<guid isPermaLink="false">018-06-009-2013</guid>
+<pubDate>Sun, 09 Jun 2013 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>IQ Test, 1905</title>
+<itunes:subtitle>The origin of standardized tests, the quantification of intelligence, and measuring and numbering of us all (written/researched/produced/recorded by Eli Gander-Rood)</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/IQ.mp3" length="5531310" type="audio/mpeg"/>
+<guid isPermaLink="false">017-05-015-2013</guid>
+<pubDate>Wed, 15 May 2013 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Space Needle "Sketch", 1959 (Live)</title>
+<itunes:subtitle>How an icon gets conceived, how ideas get recorded, the value of cocktail napkins (real and virtual), and the story of how stories get started</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/needle.mp3" length="5520089" type="audio/mpeg"/>
+<guid isPermaLink="false">016-03-001-2013</guid>
+<pubDate>Sat, 02 Mar 2013 09:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Pope Benedict XVI Resignation, 2013</title>
+<itunes:subtitle>Moving on gracefully (or not), the history of papal resignations, and why it helps to have it all written down</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/resignation.mp3" length="5840097" type="audio/mpeg"/>
+<guid isPermaLink="false">015-02-015-2013</guid>
+<pubDate>Thu, 14 Feb 2013 09:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Rules of Association Football (Soccer), 1863</title>
+<itunes:subtitle>What makes sports sports, why the rules matter, how football got the way it is, and the basis of creativity</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/football.mp3" length="6098979" type="audio/mpeg"/>
+<guid isPermaLink="false">014-02-009-2013</guid>
+<pubDate>Sat, 09 Feb 2013 03:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>"Letters of Transit", 1942</title>
+<itunes:subtitle>You must remember this:  Casablanca, passports, exit visas, fictional documents, Rick, Ilsa, Sam's piano and the words that move us</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/transit.mp3" length="5882143" type="audio/mpeg"/>
+<guid isPermaLink="false">013-12-030-2013</guid>
+<pubDate>Sun, 30 Dec 2012 03:00:00 GMT</pubDate>
+</item>
+<item>
+<title>What is the Third Estate?, 1789</title>
+<itunes:subtitle>The priest, the pamphlet, the Revolution, and lightning in a bottle, all in the right place at the right time</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/estate.mp3" length="5103440" type="audio/mpeg"/>
+<guid isPermaLink="false">012-11-011-2012</guid>
+<pubDate>Mon, 12 Nov 2012 03:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Robert's Rules of Order, 1876</title>
+<itunes:subtitle>Bringing order to chaos, one meeting at a time</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/robert.mp3" length="4855274" type="audio/mpeg"/>
+<guid isPermaLink="false">011-9-029-2012</guid>
+<pubDate>Sat, 20 Oct 2012 03:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Protocols of the Elders of Zion, c1900</title>
+<itunes:subtitle>Fraud, plagiarism, hate, and the power of belief no matter what</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/zion.mp3" length="5682843" type="audio/mpeg"/>
+<guid isPermaLink="false">010-09-029-2012</guid>
+<pubDate>Sat, 29 Sep 2012 03:00:00 GMT</pubDate>
+</item>
+<item>
+<title>AIDS Quilt, 1987</title>
+<itunes:subtitle>Love, loss, and the stories a quilt can tell</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/quilt.mp3" length="4626428" type="audio/mpeg"/>
+<guid isPermaLink="false">009-09-019-2012</guid>
+<pubDate>Wed, 19 Sep 2012 03:00:00 GMT</pubDate>
+</item>
+<item>
+<title>The 18 1/2 Minute Gap, 1972</title>
+<itunes:subtitle>Watergate, the Nixon White House, and the benefits of unsolved mysteries</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/gap.mp3" length="5060078" type="audio/mpeg"/>
+<guid isPermaLink="false">008-09-03-2012</guid>
+<pubDate>Tue, 04 Sep 2012 03:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Gutenberg Indulgence, 1454</title>
+<itunes:subtitle>What Gutenberg printed first, the unexpected effects all his works had,
+and how it's all about to happen again</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/gutenberg.mp3" length="4654128" type="audio/mpeg"/>
+<guid isPermaLink="false">007-08-013-2012</guid>
+<pubDate>Thu, 23 Aug 2012 19:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Internet Protocol, 1981</title>
+<itunes:subtitle>The simple genius that makes the Internet happen</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/tcpip.mp3" length="4402041" type="audio/mpeg"/>
+<guid isPermaLink="false">006-08-06-2012</guid>
+<pubDate>Wed, 15 Aug 2012 19:00:00 GMT</pubDate>
+</item>
+<item>
+<title>The Gregorian Calendar, 1582</title>
+<itunes:subtitle>The power of one person, the power of one document</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/calendar.mp3" length="7387516" type="audio/mpeg"/>
+<guid isPermaLink="false">001-07-16-2012</guid>
+<pubDate>Wed, 18 Jul 2012 19:00:00 GMT</pubDate>
+</item>
+<item>
+<title>John Snow's Cholera Map, 1853</title>
+<itunes:subtitle>Making sense of Big Data, 19th century edition (written/researched/produced/recorded by Andrew Brink)</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/cholera.mp3" length="13096726" type="audio/mpeg"/>
+<guid isPermaLink="false">002-06-06-2012</guid>
+<pubDate>Mon, 16 Jul 2012 19:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Mao's Little Red Book, 1964</title>
+<itunes:subtitle>Words matter, and who says them does too</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/mao.mp3" length="6144313" type="audio/mpeg"/>
+<guid isPermaLink="false">003-07-08-2012</guid>
+<pubDate>Tue, 17 Jul 2012 19:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Barack Obama Birth Certificate, 1961</title>
+<itunes:subtitle>Authenticity, authentication, and last piece of paper you might have</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/cert.mp3" length="3853734" type="audio/mpeg"/>
+<guid isPermaLink="false">004-07-17-2012</guid>
+<pubDate>Sun, 15 Jul 2012 19:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>The 19th Amendment, 1920</title>
+<itunes:subtitle>Where exactly is the Constitution?  Chances are, what you think...is wrong</itunes:subtitle>
+<enclosure url="http://faculty.washington.edu/jwj/doc/const.mp3" length="4586735" type="audio/mpeg"/>
+<guid isPermaLink="false">005-07-19-2012</guid>
+<pubDate>Thu, 19 Jul 2012 19:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
